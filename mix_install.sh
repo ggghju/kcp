@@ -34,8 +34,8 @@ wget https://raw.githubusercontent.com/ggghju/kcp/master/stop.bat
 wget https://raw.githubusercontent.com/ggghju/kcp/master/kcptun_client.json
 cd /usr/src/$yourdir
 wget https://raw.githubusercontent.com/ggghju/kcp/master/kcptun_server.json
-wget https://github.com/ggghju/kcp/raw/master/speederv2_amd64
-wget https://github.com/ggghju/kcp/raw/master/server_linux_amd64
+wget https://github.com/ggghju/kcp/master/speederv2_amd64
+wget https://github.com/ggghju/kcp/master/server_linux_amd64
 chmod +x speederv2_amd64 server_linux_amd64
 
 #设置参数

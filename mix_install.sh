@@ -36,8 +36,8 @@ cd /usr/src/$yourdir
 wget https://raw.githubusercontent.com/ggghju/kcp/master/kcptun_server.json
 mkdir /etc/udp
 cd /etc/udp
-	  curl -o udp2raw https://raw.githubusercontent.com/ggghju/kcp/master/udp2raw
-	  curl -o speederv2 https://raw.githubusercontent.com/ggghju/kcp/master/speederv2
+    curl -o server_linux_amd64 https://raw.githubusercontent.com/ggghju/kcp/master/server_linux_amd64
+    curl -o server_linux_amd64 https://raw.githubusercontent.com/ggghju/kcp/master/speederv2_amd64
     chmod +x speederv2_amd64 server_linux_amd64
 
 #设置参数
